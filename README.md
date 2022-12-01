@@ -265,8 +265,8 @@ Url: `/users/:id`
 <details>
 <summary>Body: </summary>
 
-```JSON
-{
+```typescript
+class {
   user?: String,
   capabilities?: String[]
 
