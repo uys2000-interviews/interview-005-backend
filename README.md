@@ -1,9 +1,29 @@
-# quickcarbon backend
+# Quickcarbon Backend
 
 ## General Information  
 
 This codes created for Altensis  
 Frontend of this project [link](https://github.com/uys2000-interviews/interview-005) 
+
+## Run
+
+### Project Setup
+
+```bach
+yarn install
+```
+
+### Run Server
+
+```bach
+yarn serve
+```
+
+### Run Server With Hot-Relopad
+
+```bach
+yarn dev
+```
 
 ## ENV Values
 
@@ -311,4 +331,3 @@ Url: `/users/:id`
   "data": true
 }
 ```
-
